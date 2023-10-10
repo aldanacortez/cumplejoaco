@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Shadows+Into+Light&display=swap');
+
+body {
+    margin: 0px !important;
+}
+
+.container{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.img-size {
+    height: 700px;
+    width: 400px;
+}
+
+.texto-encima{
+    position: absolute;
+    top: 70%;
+    left: 31%;
+    color: white;
+    font-weight: 500;
+    font-family: 'Amatic SC', cursive;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
