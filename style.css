@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Quicksand:wght@300&family=Shadows+Into+Light&display=swap');
 
 body {
     margin: 0px !important;
@@ -17,11 +17,11 @@ body {
 
 .texto-encima{
     position: absolute;
-    top: 70%;
-    left: 31%;
+    top: 67%;
+    left: 15%;
     color: white;
     font-weight: 500;
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Quicksand', sans-serif;
 }
 .centrado{
     position: absolute;
