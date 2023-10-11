@@ -11,21 +11,20 @@ body {
 }
 
 .img-size {
-    height: 100%;
+    /* height: 100%; */
     width: 400px;
 }
 
 @media(max-width:1000px) {
     .img-size {
     width: 100%;
-        height: 100%;
     }
 }
 
 .texto-encima{
     position: absolute;
     top: 71%;
-    left: 15%;
+    left: 17%;
     color: white;
     font-weight: 500;
     font-family: 'Quicksand', sans-serif;
