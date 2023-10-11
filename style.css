@@ -28,6 +28,7 @@ body {
     color: white;
     font-weight: 500;
     font-family: 'Quicksand', sans-serif;
+    font-size: 15px !important;
 }
 .centrado{
     position: absolute;
